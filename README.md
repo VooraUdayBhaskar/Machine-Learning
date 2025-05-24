@@ -3,7 +3,7 @@
 ## Project Title: Term Deposit Subscription Prediction from Telemarketing Calls
 
 **Author:** Uday Bhaskar Voora  
-**Course:** Intro to Machine Learning, University of Illinois Chicago, Spring 20
+**Course:** Intro to Machine Learning
 
 
 ---
