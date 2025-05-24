@@ -2,8 +2,47 @@
 
 ## Project Title: Term Deposit Subscription Prediction from Telemarketing Calls
 
-**Author:** Uday Bhaskar Avoora  
+**Author:** Uday Bhaskar Voora  
 **Course:** Intro to Machine Learning, University of Illinois Chicago, Spring 2025
+
+
+
+---
+
+## Visualizations
+
+### Correlation Matrix
+
+![Correlation Matrix](visualization/correlation.png)
+
+*This heatmap displays the correlation coefficients between key numerical features. It highlights relationships such as a moderate positive correlation between `pdays` and `previous`, indicating clients contacted previously are more likely to be contacted again.*
+
+---
+
+### Neural Network Training and Validation Curves
+
+![Training and Validation Curves](visualization/traincurve.png)
+
+*These plots illustrate the neural network’s training progress. The loss graph shows both training and validation loss decreasing steadily, while the accuracy graph demonstrates improvements in both training and validation accuracy, indicating good model learning and generalization.*
+
+---
+
+### Model Comparison Curve
+
+![Model Comparison Curve](visualization/comparisoncurve.png)
+
+*This line plot compares models based on Accuracy, F1 Score, and ROC AUC. LightGBM and XGBoost consistently outperform other models, showing near-perfect metrics.*
+
+---
+
+### Model Comparison Bar Chart
+
+![Model Comparison Bar Chart](visualization/barchart.png)
+
+*This grouped bar chart compares the performance of different models across several metrics including accuracy, precision, recall, F1 score, and ROC AUC. XGBoost and LightGBM show the best overall performance.*
+
+---
+
 
 ---
 
