@@ -20,6 +20,14 @@ Direct marketing campaigns often waste resources by contacting clients unlikely 
 
 ---
 
+### Model Comparison Curve
+
+![Model Comparison Curve](images/comparisioncurve.png)
+
+*This line plot compares models based on Accuracy, F1 Score, and ROC AUC. LightGBM and XGBoost consistently outperform other models, showing near-perfect metrics.*
+
+---
+
 ## Dataset
 
 - Source: Portuguese Banking Dataset  
@@ -87,7 +95,7 @@ Evaluated multiple classifiers:
 
 ### Model Comparison Curve
 
-![Model Comparison Curve](images/comparisoncurve.png)
+![Model Comparison Curve](images/comparisioncurve.png)
 
 *This line plot compares models based on Accuracy, F1 Score, and ROC AUC. LightGBM and XGBoost consistently outperform other models, showing near-perfect metrics.*
 
